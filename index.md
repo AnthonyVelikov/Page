@@ -28,11 +28,9 @@ My Top 3 coding languages:
 
 ### *Actually Me*
 
-[ME][def]
+[ME](./images/meandmarb.jpg)
 
 
-
-[def]: ./images/meandmarb.jpg
 
 ### Favorite loop
     '''C
