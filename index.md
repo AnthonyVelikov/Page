@@ -32,7 +32,7 @@ My Top 3 coding languages:
 
 
 
-[def]: ./stuff/meandmarb.jpg
+[def]: ./images/meandmarb.jpg
 
 ### Favorite loop
     '''C
